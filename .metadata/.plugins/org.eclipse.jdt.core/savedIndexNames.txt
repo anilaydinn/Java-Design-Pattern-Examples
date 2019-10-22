@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/anil/Desktop/Yazılım/Java Design Pattern/.metadata/.plugins/org.eclipse.jdt.core
+1416863061.index
+438235274.index

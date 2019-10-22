@@ -1,0 +1,5 @@
+
+final class Captain {
+	
+	private static Captain captain;
+}

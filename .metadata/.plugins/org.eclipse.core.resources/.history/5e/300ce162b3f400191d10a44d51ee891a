@@ -1,0 +1,10 @@
+
+class Captain{
+	
+	//Early initialization
+	private static final Captain captain = new Captain();
+}
+
+public class EagerInitializationExample {
+	
+}

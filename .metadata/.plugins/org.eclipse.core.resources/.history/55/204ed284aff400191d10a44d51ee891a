@@ -1,0 +1,17 @@
+
+public class SingletonPatternExample {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}
+
+final class Captain{
+	
+	private static Captain captain;
+	
+	private Captain() {
+		
+	}
+}
