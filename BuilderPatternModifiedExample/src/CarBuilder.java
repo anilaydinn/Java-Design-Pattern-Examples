@@ -1,3 +1,4 @@
+import java.util.HashMap;
 
 public class CarBuilder implements ModifiedBuilder {
 
@@ -5,7 +6,6 @@ public class CarBuilder implements ModifiedBuilder {
 	private String bodyType = "Steel"; //Default body
 	private int noOfWheels = 4; //Default number of wheels
 	private int noOfHeadlights = 2; //Default number of headlights
-	
 	//Default finish up message
 	private String endOperationsMessage = "Product creation completed.";
 	
