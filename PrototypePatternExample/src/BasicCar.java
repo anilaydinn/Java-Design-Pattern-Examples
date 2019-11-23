@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public abstract class BasicCar implements Cloneable {
+public abstract class BasicCar implements  Cloneable {
 	
 	public String modelName;
 	public int basePrice,onRoadPrice;

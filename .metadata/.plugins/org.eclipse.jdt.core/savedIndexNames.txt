@@ -11,8 +11,10 @@ INDEX VERSION 1.131+/home/anil/Desktop/Yazılım/Java Design Pattern/.metadata/.
 1226243423.index
 2119213671.index
 3103924554.index
+3752856992.index
 3274501706.index
 1865326572.index
+526560815.index
 438235274.index
 433300235.index
 2347283326.index
