@@ -9,8 +9,10 @@ INDEX VERSION 1.131+/home/thracian/Java-Design-Pattern-Examples/.metadata/.plugi
 2410110040.index
 2358833789.index
 528983053.index
+705177523.index
 2083934736.index
 399688552.index
+2262582368.index
 500117504.index
 646822193.index
 438235274.index
